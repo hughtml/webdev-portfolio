@@ -86,3 +86,7 @@ article {
     display: flex;
     gap: 24px;
 }
+
+#contact a {
+    flex: 1;
+}
