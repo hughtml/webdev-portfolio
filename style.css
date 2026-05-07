@@ -91,4 +91,6 @@ article {
 
 #contact img {
     object-fit: contain;
+    width: 80px;
+    height: 80px;
 }
