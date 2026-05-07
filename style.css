@@ -10,7 +10,7 @@ body {
     font-family: Arial, sans-serif;
     /* Centering content with max width */
     max-width: 900px;
-    margin: auto;
+    margin: 0 auto;
     /* Spacing content a bit more */
     padding: 32px;
     line-height: 1.5;
