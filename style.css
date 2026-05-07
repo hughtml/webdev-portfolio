@@ -86,9 +86,9 @@ article {
     display: flex;
     gap: 24px;
     justify-content: center;
+    align-items: center;
 }
 
-#contact a {
-    flex: 1;
-    padding: 16px;
+#contact img {
+    object-fit: contain;
 }
