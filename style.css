@@ -81,3 +81,9 @@ article {
     color: #9ca3af;
     font-style: italic;
 }
+
+#contact {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
