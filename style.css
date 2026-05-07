@@ -17,6 +17,7 @@ header {
     align-items: center;
     /* Spacing content a bit more */
     margin-bottom: 80px;
+    font-weight: bold;
 }
 
 #title-card {
@@ -28,4 +29,18 @@ header {
 #title-card img {
     /* Making the image circular */
     border-radius: 50%;
+}
+
+nav ul {
+    /* Flex container */
+    display: flex;
+    gap: 24px;
+    /* Take off the bulletpoints */
+    list-style: none;
+}
+
+nav a {
+    color: #9ca3af;
+    /* No underline */
+    text-decoration: none;
 }
