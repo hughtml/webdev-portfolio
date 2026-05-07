@@ -93,6 +93,7 @@ article {
     justify-content: center;
     align-items: center;
     gap: 40px;
+    border: 2px solid red;
 }
 
 #contact a {
