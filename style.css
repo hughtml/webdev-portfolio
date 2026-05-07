@@ -10,3 +10,11 @@ body {
     line-height: 1.5;
 }
 
+header {
+    /* Flex container */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* Spacing content a bit more */
+    margin-bottom: 80px;
+}
