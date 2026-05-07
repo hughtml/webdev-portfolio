@@ -18,3 +18,14 @@ header {
     /* Spacing content a bit more */
     margin-bottom: 80px;
 }
+
+#title-card {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+#title-card img {
+    /* Making the image circular */
+    border-radius: 50%;
+}
