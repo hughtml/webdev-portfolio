@@ -85,9 +85,10 @@ article {
 #contact {
     display: flex;
     gap: 24px;
+    justify-content: center;
 }
 
 #contact a {
     flex: 1;
-    padding: 24px;
+    padding: 16px;
 }
