@@ -58,13 +58,17 @@ h2 {
 .projects-container {
     display: flex;
     gap: 24px;
+    margin-bottom: 40px;
 }
 
 article {
+    /* Each card takes equal width */
+    flex: 1;
     /* Making the articles look like cards */
     border: 1px solid #374151;
     border-radius: 10px;
     padding: 24px;
+    text-align: center;
 }
 
 .project-title {
@@ -75,4 +79,5 @@ article {
 
 .project-description {
     color: #9ca3af;
+    font-style: italic;
 }
